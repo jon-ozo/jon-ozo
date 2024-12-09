@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jon-ozo
-- 👀 I’m interested in everything JavaScript. I'm great at Vanilla JavaScript, React, NodeJs
+- 👀 I’m interested in everything programming. I'm great at Vanilla JavaScript, React, NodeJs, PHP, mySQL, MongoDB
 - 🌱 I’m currently learning the qualities of being a genius 
 - 💞️ I’m always looking to collaborate on the next big thing
 - 📫 How to reach me on twitter-@jonnie_ozo or e-mail-johnozoemena@gmail.com
